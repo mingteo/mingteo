@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dickson Teo / 张学明</h1>
+<h1 align="center">Hi 👋, I'm Dickson Teo 张学明</h1>
 <h3 align="center">💻 Information Systems Student | 💡 Tech Enthusiast | 📍 Based in Batam, Indonesia</h3>
 
 <p align="center">
