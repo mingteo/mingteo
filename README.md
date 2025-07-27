@@ -8,9 +8,9 @@
 ---
 
 ### 👨‍🎓 About Me
-- 🎓 I'm currently studying **Information Systems** at Institut Teknologi Batam (ITEBA).
-- 🧠 I'm just start learning **Laravel** and **React Native**.
-- 🔭 currently I'm building an **ERP system** for PT Usaha Kiat Permata.
+- 🎓 I'm currently studying **Information Systems** at Institut Teknologi Batam.
+- 🧠 I'm just start learning **Javascript Programming** like **React, React Native, Next, etc**.
+- 🔭 currently I'm building an **ERP system** for Usaha Kiat Permata.
 - 🌱 I love exploring the intersection of **business and technology**.
 - ⚡ Fun fact: I enjoy solving real-world problems through software.
 
