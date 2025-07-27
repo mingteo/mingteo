@@ -2,7 +2,7 @@
 <h3 align="center">💻 Information Systems Student | 💡 Tech Enthusiast | 📍 Based in Batam, Indonesia</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0AE6E6&center=true&width=435&lines=Welcome+to+my+GitHub!;I'm+an+Information+Systems+Student;Currently+learning+Laravel%2C+%26+React+Native" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0AE6E6&center=true&width=435&lines=Welcome+to+my+GitHub!;I'm+an+Information+Systems+Student;Currently+learning+Javascript%2C+%26+Programming" alt="Typing SVG" />
 </p>
 
 ---
